@@ -10,6 +10,10 @@
 - [**Курсове проектування**](kurs/README.md)
   - [Методичні рекомендації до виконання курсового проекту (2017 рік)](kurs/metod2017/README.md)
 
+
+
+[Вибрані розділи посібника](unitypro/articles/README.md)
+
 [Сторінка курсу Модуля 2 (цей)](https://pupenasan.github.io/kpz2/)
 
 [Сторінка курсу Модуля 1](https://romamirkevich.github.io/PLCBeginner/)
